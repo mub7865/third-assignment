@@ -7,11 +7,13 @@ function Extention() {
         <h2 className="font-bold text-[64px] leading-[77.45px] tracking-[-0.02em] mb-6 text-white">
           Use as Extension              
             </h2>
-        <p className="font-normal text-lg leading-[30px] tracking-[-0.02em] mb-14 text-white">
-          Use the web clipper extension, available on Chrome and Firefox, to save web pages or take screenshots as notes.
-        </p>
+
+            <p className="font-normal text-lg leading-[30px] tracking-[-0.02em] mb-[60px] text-white">
+            Use the web clipper extension, available on Chrome and Firefox, to save web pages or take screenshots as notes. 
+            </p>
+         
         <button className="h-[63px] w-[219px] p-[20px] rounded-lg font-normal text-lg leading-[23px] tracking-[-0.02em] bg-[#4F9CF9] text-white">
-          Let's Go
+          Lets Go
         </button>
       </div>
       <div className="w-[686px] h-[479px] bg-[#C4DEFD]"></div>
